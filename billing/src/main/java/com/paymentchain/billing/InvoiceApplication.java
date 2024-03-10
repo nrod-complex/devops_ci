@@ -34,7 +34,7 @@ public class InvoiceApplication {
         SpringApplication.run(InvoiceApplication.class, args);
     }
 
-     //Define all details for app info nuevo
+     //Define all details for app info nuevo coment
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder().title("Digitalthinking Shool")
                 .description("Digitalthinking Shool API reference for developers, teh error handler is implement using \n"
